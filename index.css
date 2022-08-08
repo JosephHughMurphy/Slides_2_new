@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-    opacity: 0.9;
+    opacity: 0.6;
     text-decoration: none; 
     cursor: pointer;
 }
@@ -37,7 +37,7 @@ a:hover {
 .title {
     /* Colour pallet - https://www.w3schools.com/cssref/css_colors.asp */
     background-color: DarkBlue;
-    padding: 6px;
+    padding: 10px;
     width: auto;
     height: auto;
     margin: 10px;
